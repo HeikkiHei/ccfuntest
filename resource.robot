@@ -7,7 +7,7 @@ Documentation     A resource file with reusable keywords and variables.
 Library           Selenium2Library
 
 *** Variables ***
-${SERVER}         https://s3-eu-west-1.amazonaws.com/heikkihei/index.html
+${SERVER}         https://your-url-here.com/index.html
 ${BROWSER}        Chrome
 ${DELAY}          2
 
